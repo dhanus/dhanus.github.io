@@ -16,7 +16,7 @@ navigation:
  - title: Blog
    url: /index.html
  - title: About
-   url: /about
+   url: /about.html
 
 social:
    github: dhanus
