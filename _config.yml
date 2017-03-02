@@ -1,24 +1,28 @@
-# Site Settings
-title:               Lagrange
-tagline:             a minimalist Jekyll theme
+title: Deborah Hanus
 description:
-baseurl:            #"/Lagrange"
-url:                #"https://lenpaul.github.io"
-github:
-  url:               "https://lenpaul.github.io/Lagrange"
-author:
-  name:              "Paul Le"
-  email:             "l.nguyen.paul@gmail.com"
-  twitter:           "paululele"
-  instagram:         "paululele"
-  github:            "lenpaul"
-  facebook:          "Le.Paul.94"
-  linkedin:          "lenpaul"
-paginate:            5
+
+url: http://dhanus.github.io 
+baseurl: ""
+paginate_path: "blog/page:num/"
+permalink: blog/:title/
 
 
-# Build settings
-markdown:            kramdown
-highlighter:         rouge
-permalink:           none
-gems:                [jekyll-paginate]
+markdown: kramdown
+highlighter: rouge
+gems: [jekyll-paginate]
+paginate: 10
+
+navigation:
+ - title: Blog
+   url: /index.html
+ - title: About
+   url: /about
+
+social:
+   github: dhanus
+   twitter: deborahhanus
+   facebook: deborah.hanus
+   email: dhanus@mit.edu
+   linkedin: deborahhanus
+
+google_analytics: ""
