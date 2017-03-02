@@ -5,7 +5,7 @@ title: About
 
 <div class="post">
 
-      <center><img src="{{ 'images/elephant.jpg' | prepend: site.baseurl }}" alt="Me being eaten by an elephant"></center>
+      <center><img src="{{ '../images/elephant.jpg' | prepend: site.baseurl }}" alt="Me being eaten by an elephant"></center>
 
       <p>I study <a href="https://en.wikipedia.org/wiki/Machine_learning">machine learning</a> at <a href="http://www.seas.harvard.edu/">Harvard University</a> as an NSF Fellow working with <a href="https://www.seas.harvard.edu/directory/finale">Finale Doshi</a> and <a href="https://www.seas.harvard.edu/directory/rpa">Ryan Adams</a>. I enjoy working on projects in the intersection of software, machine learning, and behavior.</p>
 
