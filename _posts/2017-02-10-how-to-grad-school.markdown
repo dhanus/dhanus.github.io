@@ -2,6 +2,13 @@
 layout: post
 title:  "How to get into a top PhD program"
 date:   2017-02-10
+categories: journal
+tags: [documentation,sample]
+image:
+  feature: MD.jpg
+  teaser: MD.jpg
+  credit: Harvard SEAS 
+  creditlink: "https://www.seas.harvard.edu/tour/stop-5-maxwell-dworkin"
 ---
 
 <p class="intro"><span class="dropcap">U</span>nlike in professional programs (i.e. JD, MD, MBA, etc.), when you apply to a PhD program, you usually apply to work with one professor, who will be your primary advisor.  That professor needs to publish research papers and go to conferences, so when she reads your application, she wants to know "Can this person do research? Will she publish papers and go to conferences?  Will she finish the research program? Is she someone I want to work with for 4+ years?" </p>
