@@ -7,11 +7,18 @@ baseurl: ""
 paginate_path: "blog/page:num/"
 permalink: blog/:title/
 
+navigation:
+- title: Blog
+  url: /index.html
+- title: About
+  url: /about
+
 
 markdown: kramdown
 highlighter: rouge
 gems: [jekyll-paginate]
 paginate: 10
+
 
 author:
    name: "Deborah Hanus"
