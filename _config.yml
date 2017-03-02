@@ -13,12 +13,6 @@ highlighter: rouge
 gems: [jekyll-paginate]
 paginate: 10
 
-navigation:
- - title: Blog
-   url: /index.html
- - title: About
-   url: /about.html
-
 author:
    name: "Deborah Hanus"
    github: dhanus
