@@ -1,20 +1,14 @@
 <div class="menu">
   <div class="menu-content">
-                {% for link in site.navigation %}{% assign current = nil %}{% if page.url contains link.url %}{% assign current = 'current' %}{% endif %}
-                     <a class="element {% if forloop.first %}first{% endif %} {{ current }} {% if forloop.last %}last{% endif %}" href="{{ link.url | prepend: site.baseurl }}">{{ link.title }}</a>
-                 {% endfor %}
-                   <a target="_blank" href="https://scholar.google.com/citations?user=J_d-EmQAAAAJ&hl=en">Publications</a>
-
-   <!--  <a href="{{ site.github.url }}/about">About</a> -->
-<!--     <a href="{{ site.github.url }}/writing.html">Writing</a> -->
-<!--     <a href="{{ site.github.url }}/contacts.html">Contact</a> -->
+    {% for link in site.navigation %}{% assign current = nil %}{% if page.url contains link.url %}{% assign current = 'current' %}{% endif %}
+    <a class="element {% if forloop.first %}first{% endif %} {{ current }} {% if forloop.last %}last{% endif %}" href="{{ link.url | prepend: site.baseurl }}">{{ link.title }}</a>
+    {% endfor %}
+    <a target="_blank" href="https://scholar.google.com/citations?user=J_d-EmQAAAAJ&hl=en">Publications</a>
   </div>
   <div class="social-icons">
     <a href="https://twitter.com/{{site.author.twitter}}"><i class="fa fa-twitter" aria-hidden="true" target="_blank"></i></a>
-<!--     <a href="https://instagram.com/{{ site.author.instagram }}"><i class="fa fa-instagram" aria-hidden="true" target="_blank"></i></a> -->
     <a href="https://linkedin.com/in/{site.author.linkedin{}}"><i class="fa fa-linkedin" aria-hidden="true" target="_blank"></i></a>
     <a href="https://github.com/{{site.author.github}}"><i class="fa fa-github" aria-hidden="true" target="_blank"></i></a>
-    <a href="https://www.facebook.com/{{site.author.facebook}}"><i class="fa fa-facebook" aria-hidden="true" target="_blank"></i></a>
     <a href="mailto:dhanus@mit.edu"><i class="fa fa-envelope" aria-hidden="true" target="_blank"></i></a>
   </div>
 </div>
