@@ -1,6 +1,10 @@
 ---
 layout: page
 title: About
+image:
+  feature: elephant.jpg
+  credit: Jeff Arnold
+  creditlink: "https://twitter.com/jeffarnold"
 ---
 
 <div class="post">
