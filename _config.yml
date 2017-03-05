@@ -12,7 +12,8 @@ navigation:
   url: /index.html
 - title: About
   url: /about
-
+- title: Speaking
+  url: /speaking
 
 markdown: kramdown
 highlighter: rouge
