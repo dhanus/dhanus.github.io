@@ -15,12 +15,11 @@ image:
 
 The application has three parts, each of which needs to be completed by a different person, so you should request a nomination as early as possible The application usually opens around <b>March 15</b>, and is due around <b>April 30</b>.  
 
-## Application Walkthrough 
-
+## Application Walkthrough
 
 ### Advisor Nomination Letter
 
-Only one student per department can apply for this fellowship, so your advisor will usually need to check with your department before nominating you. They will also answer a number of demographic questions and two short essays. A few questions of note are:
+Only one student per department can apply for this fellowship, so your advisor will usually need to check with your department before nominating you. They will also answer a number of demographic questions and two short essays. A few questions of note follow. 
 
      * What is the student's graduation year?
 
@@ -54,7 +53,7 @@ After your advisor has secured your nomination, you will receive your applicatio
       
 ### Endorsement Letter 
 
-This is a more standard letter of recommendation, which asks your endorser to both quantify and comment on how amazing you are. You should select someone who has done research with you, thinks you fantastic, and knows how to write a good letter of recommendation.
+* This is a more standard letter of recommendation, which asks your endorser to both quantify and comment on how amazing you are. You should select someone who has done research with you, thinks you fantastic, and knows how to write a good letter of recommendation.
 
 
 ## General information and advice 
