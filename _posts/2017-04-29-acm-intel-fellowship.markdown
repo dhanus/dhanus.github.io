@@ -17,8 +17,8 @@ The application has three parts, each of which needs to be completed by a differ
 
 ## Application Walkthrough 
 
-<ol>
-<li> ###Advisor Nomination Letter
+
+###Advisor Nomination Letter
 
 <p>Only one student per department can apply for this fellowship, so your advisor will usually need to check with your department before nominating you. They will also answer a number of demographic questions and two short essays. A few questions of note are:</p>
 	    <ul>
@@ -34,9 +34,8 @@ The application has three parts, each of which needs to be completed by a differ
 In this section, your advisor should discuss how your work will both use high performance computing and have an impact. 
 		</li>
 	    </ul>
-</li> 
 
-<li> ###Candidate Application. 
+###Candidate Application. 
 
 <p>After your advisor has secured your nomination, you will receive your application form. For this form, the three notable items of information are:</p> 
       <ul>
@@ -53,15 +52,12 @@ In this section, your advisor should discuss how your work will both use high pe
 <p>This is the only real place that you, as an applicant have to display your achievements. All standard resume and CV advice applies. If your work achieved something, explain what it achieved, and use numbers wherever possible.</p> 
 		</li>
       </ul>
-</li>
-<li>
-	<li> ###<p>>Endorsement Letter</p> 
+      
+      ###<p>>Endorsement Letter</p> 
 
 	<p>This is a more standard letter of recommendation, which asks your endorser to both quantify and comment on how amazing you are. You should select someone who has done research with you, thinks you fantastic, and knows how to write a good letter of recommendation.</p> 
 	</li>
 
-</li>
-</ol>
 
 ## General information and advice 
 
