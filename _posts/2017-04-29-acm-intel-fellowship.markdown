@@ -65,6 +65,7 @@ They do this on several dimensions:
      * <i>Universities.</i> By requiring you to get department approval to apply, they ensure that they receive only one applicant per department per school. 
 
      * <i>Academic Discipline.</i> This is NOT a fellowship just for computer scientists. Last year, I was the only awardee studying in a computer science department. My cohort included ecologists, astrophysicists, and more. If you use high performance computing (and are under represented in your field), you should definitely consider applying for this fellowship. 
+
      * <i>Individual.</i> The characteristic that stood out to me most about the other awardees in my cohort was their incredible resilience. Most of the awardees had to overcome significant challenges to get to where they were.
 
 Given how short the applicant's section of the fellowship application is, my working hypothesis is that the nomination and endorsement letters carry more weight than the applicant's section. Therefore, I would advise you to write a good biography, a clear description of why you care about your work, and get feedback on your curriculum vitae. Beyond that, I would urge you to not stress much about this application. By the time you gain your department's nomination for this award, you've already completed the hardest parts of the application -- finding people who believe in and support you. And that will pay massive dividends throughout your graduate career, whether or not you win this award. 
