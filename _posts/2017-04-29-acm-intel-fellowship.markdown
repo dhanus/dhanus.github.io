@@ -55,7 +55,7 @@ After your advisor has secured your nomination, you will receive your applicatio
 * This is a more standard letter of recommendation, which asks your endorser to both quantify and comment on how amazing you are. You should select someone who has done research with you, thinks you fantastic, and knows how to write a good letter of recommendation.
 
 
-## General information and advice 
+## General information & advice 
 
 * Because this fellowship provides up to 5 years of funding, they seem to prefer applicants who are relatively early in their graduate career. 
 
