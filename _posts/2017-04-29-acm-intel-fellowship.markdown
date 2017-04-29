@@ -22,19 +22,19 @@ The application has three parts, each of which needs to be completed by a differ
 
 Only one student per department can apply for this fellowship, so your advisor will usually need to check with your department before nominating you. They will also answer a number of demographic questions and two short essays. A few questions of note are:
 
-	    <ul>
-		<li>What is the student's graduation year?
 
-		While this fellowship may be renewable for up to 5 years, your estimated graduation year will define how long you will actually qualify to renew the scholarship. Therefore, if you are applying from the US or another country that may have indefinitely long PhD's, you should round your estimated graduation date up to ensure you can continue to renew.</li>
-		<li> How is the student a part of an underrepresented group? 
+		* What is the student's graduation year?
 
-		If you are a part of any underrepresented groups that your advisor might not know about, you may want to inform her before she fills out the nomination, so that she can answer this question as completely as possible. 
-		</li>
-		<li>How is the student's project related to data and computational science? 
+		  While this fellowship may be renewable for up to 5 years, your estimated graduation year will define how long you will actually qualify to renew the scholarship. Therefore, if you are applying from the US or another country that may have indefinitely long PhD's, you should round your estimated graduation date up to ensure you can continue to renew.</li>
+		
+		* How is the student a part of an underrepresented group? 
 
-In this section, your advisor should discuss how your work will both use high performance computing and have an impact. 
-		</li>
-	    </ul>
+		  If you are a part of any underrepresented groups that your advisor might not know about, you may want to inform her before she fills out the nomination, so that she can answer this question as completely as possible. 
+		
+		* How is the student's project related to data and computational science? 
+
+		  In this section, your advisor should discuss how your work will both use high performance computing and have an impact. 
+
 
 ### Candidate Application
 
@@ -42,15 +42,15 @@ After your advisor has secured your nomination, you will receive your applicatio
      
 * Your biographical sketch
 
-Many people have asked me for a copy of my biography. Unfortunately, I no longer have it. However, 150 words is quite short, so I expect I described my major achievements, without saying much else that was particularly ground-breaking.
+  Many people have asked me for a copy of my biography. Unfortunately, I no longer have it. However, 150 words is quite short, so I expect I described my major achievements, without saying much else that was particularly ground-breaking.
 
 * Your research motivation
 
-The selection committee only wants to give this award to people who are definitely going to complete their degree program. Therefore, in this section, you should be able to state the impact of your work in plain english and sound enthusiastic to be working on it.
+  The selection committee only wants to give this award to people who are definitely going to complete their degree program. Therefore, in this section, you should be able to state the impact of your work in plain english and sound enthusiastic to be working on it.
 
 * Your Curriculum Vitae (CV)
 
-This is the only real place that you, as an applicant have to display your achievements. All standard resume and CV advice applies. If your work achieved something, explain what it achieved, and use numbers wherever possible.
+  This is the only real place that you, as an applicant have to display your achievements. All standard resume and CV advice applies. If your work achieved something, explain what it achieved, and use numbers wherever possible.
     
       
 ### Endorsement Letter 
