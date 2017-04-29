@@ -22,18 +22,17 @@ The application has three parts, each of which needs to be completed by a differ
 
 Only one student per department can apply for this fellowship, so your advisor will usually need to check with your department before nominating you. They will also answer a number of demographic questions and two short essays. A few questions of note are:
 
+     * What is the student's graduation year?
 
-		* What is the student's graduation year?
-
-		  While this fellowship may be renewable for up to 5 years, your estimated graduation year will define how long you will actually qualify to renew the scholarship. Therefore, if you are applying from the US or another country that may have indefinitely long PhD's, you should round your estimated graduation date up to ensure you can continue to renew.</li>
+       While this fellowship may be renewable for up to 5 years, your estimated graduation year will define how long you will actually qualify to renew the scholarship. Therefore, if you are applying from the US or another country that may have indefinitely long PhD's, you should round your estimated graduation date up to ensure you can continue to renew.</li>
 		
-		* How is the student a part of an underrepresented group? 
+     * How is the student a part of an underrepresented group? 
 
-		  If you are a part of any underrepresented groups that your advisor might not know about, you may want to inform her before she fills out the nomination, so that she can answer this question as completely as possible. 
+        If you are a part of any underrepresented groups that your advisor might not know about, you may want to inform her before she fills out the nomination, so that she can answer this question as completely as possible. 
 		
-		* How is the student's project related to data and computational science? 
+     * How is the student's project related to data and computational science? 
 
-		  In this section, your advisor should discuss how your work will both use high performance computing and have an impact. 
+        Your advisor should discuss how your work will both use high performance computing and have an impact. 
 
 
 ### Candidate Application
