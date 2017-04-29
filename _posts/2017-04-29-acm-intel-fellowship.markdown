@@ -18,9 +18,10 @@ The application has three parts, each of which needs to be completed by a differ
 ## Application Walkthrough 
 
 
-###Advisor Nomination Letter
+### Advisor Nomination Letter
 
-<p>Only one student per department can apply for this fellowship, so your advisor will usually need to check with your department before nominating you. They will also answer a number of demographic questions and two short essays. A few questions of note are:</p>
+Only one student per department can apply for this fellowship, so your advisor will usually need to check with your department before nominating you. They will also answer a number of demographic questions and two short essays. A few questions of note are:
+
 	    <ul>
 		<li>What is the student's graduation year?
 
@@ -35,28 +36,26 @@ In this section, your advisor should discuss how your work will both use high pe
 		</li>
 	    </ul>
 
-###Candidate Application. 
+### Candidate Application
 
-<p>After your advisor has secured your nomination, you will receive your application form. For this form, the three notable items of information are:</p> 
-      <ul>
-		<li><p>Your biographical sketch</p>
+After your advisor has secured your nomination, you will receive your application form. For this form, the three notable items of information are:
+     
+* Your biographical sketch
 
-		<p>Many people have asked me for a copy of my biography. Unfortunately, I no longer have it. However, 150 words is quite short, so I expect I described my major achievements, without saying much else that was particularly ground-breaking.</p>
-		</li>
-		<li><p>Your research motivation</p>
+Many people have asked me for a copy of my biography. Unfortunately, I no longer have it. However, 150 words is quite short, so I expect I described my major achievements, without saying much else that was particularly ground-breaking.
 
-<p>The selection committee only wants to give this award to people who are definitely going to complete their degree program. Therefore, in this section, you should be able to state the impact of your work in plain english and sound enthusiastic to be working on it.</p> 
-		</li>
-		<li><p>Your Curriculum Vitae (CV)</p>   
+* Your research motivation
 
-<p>This is the only real place that you, as an applicant have to display your achievements. All standard resume and CV advice applies. If your work achieved something, explain what it achieved, and use numbers wherever possible.</p> 
-		</li>
-      </ul>
+The selection committee only wants to give this award to people who are definitely going to complete their degree program. Therefore, in this section, you should be able to state the impact of your work in plain english and sound enthusiastic to be working on it.
+
+* Your Curriculum Vitae (CV)
+
+This is the only real place that you, as an applicant have to display your achievements. All standard resume and CV advice applies. If your work achieved something, explain what it achieved, and use numbers wherever possible.
+    
       
-      ###<p>>Endorsement Letter</p> 
+### Endorsement Letter 
 
-	<p>This is a more standard letter of recommendation, which asks your endorser to both quantify and comment on how amazing you are. You should select someone who has done research with you, thinks you fantastic, and knows how to write a good letter of recommendation.</p> 
-	</li>
+This is a more standard letter of recommendation, which asks your endorser to both quantify and comment on how amazing you are. You should select someone who has done research with you, thinks you fantastic, and knows how to write a good letter of recommendation.
 
 
 ## General information and advice 
