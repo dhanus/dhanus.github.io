@@ -11,7 +11,7 @@ image:
   creditlink: "http://www.planetware.com/photos-large/USOR/us-oregon-mount-hood-2.jpg"
 ---
 
-<p class="intro"><span class="dropcap">T</span>hree <a href="http://www.sighpc.org/fellowships">years ago, I submitted my first talk proposal to PyCon. I threw it together the week before the deadline, and it was rejected. The next year, I spent more time putting together a proposal. I asked my friends for feedback and submitted a proposal that I was proud of two weeks before the deadline.  It was rejected too.</p>
+<p class="intro"><span class="dropcap">T</span>hree years ago, I submitted my first talk proposal to PyCon. I threw it together the week before the deadline, and it was rejected. The next year, I spent more time putting together a proposal. I asked my friends for feedback and submitted a proposal that I was proud of two weeks before the deadline.  It was rejected too.</p>
 
 This time, I was surprised. I thought I had put together a good talk proposal, but apparently something was missing.  To find what was missing, I had to do some research.  I (a) volunteered for some program committees, so that I could learn about what the members are looking for, (b) asked for feedback every friend (and acquaintance) who had ever given a good talk at a software conference, and (c) submitted my talk to every conference that I saw had a CFP (call for proposals).
 
