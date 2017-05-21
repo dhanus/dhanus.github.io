@@ -20,37 +20,37 @@ I found that there are two main things that almost every conference is looking f
 1. Is this talk going to be good (and suited to our conference format)? 
 2. Is this talk going to attract a crowd? 
 
-# Write a good talk proposal
+## Write a good talk proposal
 
-## Pick a relatively simple concept to discuss
+### Pick a relatively simple concept to discuss
 
 Most talks are <= 30 mins, which actually is not very long to introduce, delve into, and conclude a discussion of a concept. If you put too much information into your proposal, you risk it looking like a disjoint laundry list. By focusing your proposal on a few points, you can give yourself time to cover those points in a more thorough and entertaining way.  
 
-## Write a narrative around that concept 
+### Write a narrative around that concept 
 
 Program Committees love fun and interesting talks, so think about how you can tell a story using the concepts that you want to discuss. A few particularly clever examples of this are Where in your RAM is 'python san_diego.py'? and Memory Chronicles: A Tale of Two Pythons. 
  
-## Include a detailed outline of your talk (including approximate timing)
+### Include a detailed outline of your talk (including approximate timing)
 
 If the format of the proposal allows, always do this. It both (a) is great for your own planning, and (b) gives the reviewers a more defined picture of how you expect your talk to flow. Notably, this is most effective if you use relatively small time increments (i.e. 5-7 mins). This detail also enables the reviewers to give you more specific feedback about how to improve your talk. 
 
-## Demos and examples are great, but be careful with live demos. 
+### Demos and examples are great, but be careful with live demos. 
 
 Demos can be an exciting addition to a talk, but if you are going to propose a talk that uses a demo, you should also include some information to allay the reviewer's concern that your demo will crash and burn. Have you left adequate time for your demo? Have you done this demo before (with constrained wifi)? Is there any way that you can automate the demo (e.g. putting commands in a script, example code in a Jupyter notebook)? This type of information can make all the difference in maintaining your reviewers' faith in your demo. 
 
-## Proofread & ask for feedback 
+### Proofread & ask for feedback 
 
 Once you think you have a halfway decent proposal, find someone else to give you feedback. If there is someone on the Internet whose work you admire, you can try asking for their feedback on your proposal. I got a lot of great feedback just from people who I reached out to on Twitter. 
 
 Relatedly, try to submit your proposal early. Sometimes reviewers (for some conferences) may offer feedback on promising proposals that are submitted before the inevitable onslaught of last minute proposal submissions. 
 
-##Pay attention to proposal guidelines 
+### Pay attention to proposal guidelines 
 
 I feel like 80% of the feedback I end up giving on talk proposals is just a reminder to follow the guidelines. Many conferences link to detailed guidelines and/or example talk proposals in the call for proposals. 
  
-# Convince reviewers that you will draw an audience 
+## Convince reviewers that you will draw an audience 
 
-## Make sure that you clearly explain why your talk topic is relevant to the conference topic.
+### Make sure that you clearly explain why your talk topic is relevant to the conference topic.
 
 Talks about the software/tool that the conference is about have a greater likelihood of acceptance (e.g. at PyCon, your talk about Python will have a much higher likelihood of acceptance). So if your topic is not obviously about the conference topic, make sure you explain to the reviewers why it is. 
 
@@ -58,7 +58,7 @@ Notably, this piece of advice varies somewhat depending on the conference that y
 
 Keynote talks tend to be about either (a) how great the community is, or (b) concrete ways to improve the community. However, contributed talks are shorter, and particularly for a conference like PyCon, if you do not clearly make a case for how your topic is about the Python community, your talk will probably not be accepted.  
 
-## Don’t leave the “additional information” section blank. 
+### Don’t leave the “additional information” section blank. 
 
 This is your last chance to convince the reviewers that your talk is going to be an amazing well-organized talk that 200+ people will undoubtedly be excited to see. There are several ways you can express this. 
 
