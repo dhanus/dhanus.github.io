@@ -20,9 +20,9 @@ I found that there are two main things that almost every conference is looking f
 1. Is this talk going to be good (and suited to our conference format)? 
 2. Is this talk going to attract a crowd? 
 
-## Write a good talk proposal
+# Write a good talk proposal
 
-### Pick a relatively simple concept to discuss
+## Pick a relatively simple concept to discuss
 
 Most talks are <= 30 mins, which actually is not very long to introduce, delve into, and conclude a discussion of a concept. If you put too much information into your proposal, you risk it looking like a disjoint laundry list. By focusing your proposal on a few points, you can give yourself time to cover those points in a more thorough and entertaining way.  
 
