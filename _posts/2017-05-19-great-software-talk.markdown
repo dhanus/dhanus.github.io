@@ -28,7 +28,7 @@ Most talks are <= 30 mins, which actually is not very long to introduce, delve i
 
 ### Write a narrative around that concept 
 
-Program Committees love fun and interesting talks, so think about how you can tell a story using the concepts that you want to discuss. A few particularly clever examples of this are Where in your RAM is 'python san_diego.py'? and Memory Chronicles: A Tale of Two Pythons. 
+Program Committees love fun and interesting talks, so think about how you can tell a story using the concepts that you want to discuss. A few particularly clever examples of this are <a href="https://www.youtube.com/watch?v=tMKXcc2-xO8">Where in your RAM is 'python san_diego.py'?</a> and <a href="https://www.youtube.com/watch?v=d7qEzpnkWaY">Memory Chronicles: A Tale of Two Pythons</a>. 
  
 ### Include a detailed outline of your talk (including approximate timing)
 
@@ -36,7 +36,7 @@ If the format of the proposal allows, always do this. It both (a) is great for y
 
 ### Demos and examples are great, but be careful with live demos. 
 
-Demos can be an exciting addition to a talk, but if you are going to propose a talk that uses a demo, you should also include some information to allay the reviewer's concern that your demo will crash and burn. Have you left adequate time for your demo? Have you done this demo before (with constrained wifi)? Is there any way that you can automate the demo (e.g. putting commands in a script, example code in a Jupyter notebook)? This type of information can make all the difference in maintaining your reviewers' faith in your demo. 
+Demos can be an exciting addition to a talk, but if you are going to propose a talk that uses a demo, you should also include some information to allay the reviewer's concern that your demo will crash and burn. Have you left adequate time for your demo? Have you done this demo before (with constrained wifi)? Is there any way that you can automate the demo (e.g. putting commands in a script, example code in a <a href="http://jupyter-notebook-beginner-guide.readthedocs.io/en/latest/what_is_jupyter.html">Jupyter notebook</a>)? This type of information can make all the difference in maintaining your reviewers' faith in your demo. 
 
 ### Proofread & ask for feedback 
 
@@ -70,7 +70,7 @@ This is your last chance to convince the reviewers that your talk is going to be
 
    Everyone gets a little nervous before a big talk, but the committee wants some evidence that you (a) will not throw up on stage, and (b) you will probably put together a talk that people are excited to see.  Evidence of this could come in the form of giving other conference talks, poster presentations, or any kind of teaching experience. 
 
-    If you want to bolster your credibility as a speaker, it is super-helpful to find other places that you can speak. If you have a local python meetup, there is a good chance they would love to hear your proposed talk (If you do not have local python meetup, you can make one). You can also submit to regional python conferences, such as PyTennessee, PyOhio, PyCaribbean, or PyBay, or more focused conferences, such as DjangoCon, SciPyConf, JupyterCon, or PyData. 
+    If you want to bolster your credibility as a speaker, it is super-helpful to find other places that you can speak. If you have a local python meetup, there is a good chance they would love to hear your proposed talk (If you do not have local python meetup, you can make one). You can also submit to regional python conferences, such as <a href="https://twitter.com/pytennessee?lang=en">PyTennessee</a>, <a href="https://twitter.com/PyOhio?lang=en">PyOhio</a>, <a href="https://twitter.com/pycaribbean?lang=en">PyCaribbean</a>, or <a href="https://twitter.com/py_bay?lang=en">PyBay</a>, or more focused conferences, such as <a href="https://twitter.com/djangocon">DjangoCon</a>, <a href="https://twitter.com/SciPyConf">SciPyConf</a>, <a href="https://twitter.com/JupyterCon">JupyterCon</a>, or <a href="https://twitter.com/PyData">PyData</a>. 
 
 - Have you given this talk (or a related talk) before? 
 
