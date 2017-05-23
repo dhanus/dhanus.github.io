@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "How to write an outstanding software conference talk proposal"
-date:   2017-04-29
+date:   2017-05-19
 categories: journal
 tags: [python, software, speaking]
 image:
@@ -28,7 +28,7 @@ Most talks are <= 30 mins, which actually is not very long to introduce, delve i
 
 ### Write a narrative around that concept 
 
-Program Committees love fun and interesting talks, so think about how you can tell a story using the concepts that you want to discuss. A few particularly clever examples of this are <a href="https://www.youtube.com/watch?v=tMKXcc2-xO8">Where in your RAM is 'python san_diego.py'?</a> and <a href="https://www.youtube.com/watch?v=d7qEzpnkWaY">Memory Chronicles: A Tale of Two Pythons</a>. 
+Program Committees love fun and interesting talks, so think about how you can tell a story using the concepts that you want to discuss. A few particularly clever examples of this are [Where in your RAM is 'python san_diego.py'?](https://www.youtube.com/watch?v=tMKXcc2-xO8) and [Memory Chronicles: A Tale of Two Pythons](https://www.youtube.com/watch?v=d7qEzpnkWaY). 
  
 ### Include a detailed outline of your talk (including approximate timing)
 
@@ -36,7 +36,7 @@ If the format of the proposal allows, always do this. It both (a) is great for y
 
 ### Demos and examples are great, but be careful with live demos. 
 
-Demos can be an exciting addition to a talk, but if you are going to propose a talk that uses a demo, you should also include some information to allay the reviewer's concern that your demo will crash and burn. Have you left adequate time for your demo? Have you done this demo before (with constrained wifi)? Is there any way that you can automate the demo (e.g. putting commands in a script, example code in a <a href="http://jupyter-notebook-beginner-guide.readthedocs.io/en/latest/what_is_jupyter.html">Jupyter notebook</a>)? This type of information can make all the difference in maintaining your reviewers' faith in your demo. 
+Demos can be an exciting addition to a talk, but if you are going to propose a talk that uses a demo, you should also include some information to allay the reviewer's concern that your demo will crash and burn. Have you left adequate time for your demo? Have you done this demo before (with constrained wifi)? Is there any way that you can automate the demo (e.g. putting commands in a script, example code in a [Jupyter notebook](http://jupyter-notebook-beginner-guide.readthedocs.io/en/latest/what_is_jupyter.html))? This type of information can make all the difference in maintaining your reviewers' faith in your demo. 
 
 ### Proofread & ask for feedback 
 
