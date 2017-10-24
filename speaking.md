@@ -11,11 +11,9 @@ title: Speaking
 
       <video id="video" controls="controls" controlslist="nodownload" width="100%" height="100%" poster="https://cdn.infoq.com/statics_s2_20171024-0600/styles/i/logo_scrubber_16_9.jpg" src="https://videoh.infoq.com/presentations/17-jun-mlinacademia-2.mp4"></video>
 
-     <iframe width="560" height="315" src="https://www.youtube.com/embed/9d8Q8r5Lyi4" frameborder="0" allowfullscreen></iframe>
-
      <p><b>How to scrape together a great data set using things you find on the internet</b></p>
 
-     <iframe width="560" height="315" src="https://www.youtube.com/embed/9d8Q8r5Lyi4" frameborder="0" allowfullscreen></iframe>
+     <video id="video" controls="controls" controlslist="nodownload" width="100%" height="100%" src="https://www.youtube.com/embed/9d8Q8r5Lyi4"></video>
 
      <p><b>Developing models to deal with missing data</b></p>
 
