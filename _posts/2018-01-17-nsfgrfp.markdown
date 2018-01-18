@@ -5,8 +5,8 @@ date:   2018-01-17
 categories: journal
 tags: [gradschool, fellowships, advice]
 image:
-  feature: nsf.jpg
-  teaser: nsf.jpg
+  feature: NSF.jpg
+  teaser: NSF.jpg
   credit: American Institute of Physics
   creditlink: "https://www.aip.org/fyi/national-science-foundation"
 ---
