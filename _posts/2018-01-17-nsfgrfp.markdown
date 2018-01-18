@@ -11,7 +11,7 @@ image:
   creditlink: "https://www.aip.org/fyi/national-science-foundation"
 ---
 
-<p class="intro"><span class="dropcap">T</span>he National Science Foundation (NSF) Graduate Research Fellowship is one of several graduate fellowships that you can apply for early in your graduate career. Other bloggers such as <a href="http://www.pgbovine.net/fellowship-tips.htm">Philip Guo</a> and <a href="http://jxyzabc.blogspot.com/2008/08/cs-grad-school-part-3-fellowships.html">Jean Yang</a> have written overviews of what to expect when applying for the NSF. However, when I applied, I wanted more than an overview of what the fellowship was; I wanted to know how to write a winning proposal. To get this, I went to every workshop/seminar/reading group I could find to learn how to write an effective NSF proposal. Here, I will share some of the most helpful advice I received.</p>
+<p class="intro"><span class="dropcap">T</span>he National Science Foundation (NSF) Graduate Research Fellowship is one of several graduate fellowships that you can apply for early in your graduate career. Other bloggers (i.e. <a href="http://www.pgbovine.net/fellowship-tips.htm">Philip Guo</a> & <a href="http://jxyzabc.blogspot.com/2008/08/cs-grad-school-part-3-fellowships.html">Jean Yang</a>) have written overviews of what to expect when applying for the NSF. When I applied, I wanted more specific advice on how to write a winning proposal. To get this, I went to every workshop/seminar/reading group I could find to learn how to write an effective NSF proposal. Here, I will share some of the most helpful advice I received.</p>
 
 The NSF Graduate Fellowship has two main written components (each limited to two pages):
 
@@ -21,16 +21,15 @@ The NSF Graduate Fellowship has two main written components (each limited to two
 When writing these, remember that the committee wants to know the answer to a few questions: 
 
 * Are you a good researcher?
-
 * Are you a good mentor? 
-
 * Will your research make an impact? 
-
 * How will you disseminate your research or keep it from being "locked in an ivory tower"?
 
 As you write your application, try to tell stories that demonstrate the answers to these questions.  
 
 # General Advice 
+
+I distilled the lessons learned and advice received when learning everything I could about the NSF Graduate Research Fellowship into some generaladvice that I'll describe here.  
 
 ## Apply early & often 
 
