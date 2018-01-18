@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "How to write a winning NSF Graduate Research Fellowship proposal"
-date:   2017-02-10
+date:   2018-01-17
 categories: journal
 tags: [gradschool, fellowships, awards]
 image:
