@@ -3,7 +3,7 @@ layout: post
 title:  "How to write a winning NSF Graduate Research Fellowship proposal"
 date:   2018-01-17
 categories: journal
-tags: [gradschool, fellowships, awards]
+tags: [gradschool, fellowships, advice]
 image:
   feature: nsf.jpg
   teaser: nsf.jpg
@@ -11,7 +11,7 @@ image:
   creditlink: "https://www.aip.org/fyi/national-science-foundation"
 ---
 
-<p class="intro"><span class="dropcap">T</span>he National Science Foundation (NSF) Graduate Research Fellowship is one of several graduate fellowships that you can apply for early in your graduate career. Other bloggers such as [Philip Guo](http://www.pgbovine.net/fellowship-tips.htm) and [Jean Yang](http://jxyzabc.blogspot.com/2008/08/cs-grad-school-part-3-fellowships.html) have written overviews of what to expect when applying for the NSF. However, when I applied, I wanted more than an overview of what the fellowship was; I wanted to know how to write a winning proposal. To get this, I went to every workshop/seminar/reading group I could find to learn how to write an effective NSF proposal. Here, I will share some of the most helpful advice I received.</p>
+<p class="intro"><span class="dropcap">T</span>he National Science Foundation (NSF) Graduate Research Fellowship is one of several graduate fellowships that you can apply for early in your graduate career. Other bloggers such as <a href="http://www.pgbovine.net/fellowship-tips.htm">Philip Guo</a> and <a href="http://jxyzabc.blogspot.com/2008/08/cs-grad-school-part-3-fellowships.html">Jean Yang</a> have written overviews of what to expect when applying for the NSF. However, when I applied, I wanted more than an overview of what the fellowship was; I wanted to know how to write a winning proposal. To get this, I went to every workshop/seminar/reading group I could find to learn how to write an effective NSF proposal. Here, I will share some of the most helpful advice I received.</p>
 
 The NSF Graduate Fellowship has two main written components (each limited to two pages):
 
