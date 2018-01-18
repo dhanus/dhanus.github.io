@@ -29,7 +29,7 @@ As you write your application, try to tell stories that demonstrate the answers 
 
 # General Advice 
 
-I distilled the lessons learned and advice received when learning everything I could about the NSF Graduate Research Fellowship into some generaladvice that I'll describe here.  
+I distilled the most helpful advice I recieved into a few generalizations.  
 
 ## Apply early & often 
 
