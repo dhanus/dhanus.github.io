@@ -1,0 +1,66 @@
+---
+layout: post
+title:  "How to write a winning NSF Graduate Research Fellowship proposal"
+date:   2017-02-10
+categories: journal
+tags: [gradschool, fellowships, awards]
+image:
+  feature: nsf.jpg
+  teaser: nsf.jpg
+  credit: American Institute of Physics
+  creditlink: "https://www.aip.org/fyi/national-science-foundation"
+---
+
+<p class="intro"><span class="dropcap">T</span>he National Science Foundation (NSF) Graduate Research Fellowship is one of several graduate fellowships that you can apply for early in your graduate career. Other bloggers such as [Philip Guo](http://www.pgbovine.net/fellowship-tips.htm) and [Jean Yang](http://jxyzabc.blogspot.com/2008/08/cs-grad-school-part-3-fellowships.html) have written overviews of what to expect when applying for the NSF. However, when I applied, I wanted more than an overview of what the fellowship was; I wanted to know how to write a winning proposal. To get this, I went to every workshop/seminar/reading group I could find to learn how to write an effective NSF proposal. Here, I will share some of the most helpful advice I received.</p>
+
+The NSF Graduate Fellowship has two main written components (each limited to two pages):
+
+1. Personal statement (+ previous research) [ 2 pages ]
+2. Research proposal [ 2 pages ]
+
+When writing these, remember that the committee wants to know the answer to a few questions: 
+
+* Are you a good researcher?
+
+* Are you a good mentor? 
+
+* Will your research make an impact? 
+
+* How will you disseminate your research or keep it from being "locked in an ivory tower"?
+
+As you write your application, try to tell stories that demonstrate the answers to these questions.  
+
+# General Advice 
+
+## Apply early & often 
+
+The NSF application deadline is early in the fall, and awards are announced in the Spring. A candidate is eligible to apply as a second year, first year, or zero-th year graduate student (definition: “zero-th year” - the year before you begin your PhD, while you are applying to graduate programs). This means that you can apply for an NSF Fellowship in the same year that you submit your graduate school applications. 
+Many students either do not realize that they can apply this early or they do not understand the many perks of having a fellowship until after they begin graduate school. If you are pretty sure that you will be going to graduate school, applying for an NSF in your zero-th year (the same academic year in which you apply for graduate programs) has many potential advantages:
+ 
+The NSF fellowship submission deadline is before most graduate school application deadlines. If you write a good personal statement for the NSF fellowship, you can probably borrow heavily from it to produce your admissions essays. 
+
+There will be fewer people applying for the fellowship this early in their career, potentially improving your odds of selection. 
+Anecdotally, the standard your application is held to gets higher the later in your PhD that you apply. This makes sense as one probably expects a 2nd year PhD student to have made more progress towards their research goals than a first or zero-th year student. 
+
+The NSF Fellowship is very competitive and most people who apply do not get it on their first try.  If you submit a proposal while you are applying to graduate school that is not selected, you will still get feedback from 2-3 reviewers to help you improve your application next year. Starting your first year with this solid first draft and reviewer feedback greatly improves the odds that you will be selected in your first year. 
+
+## Be (extremely) specific
+ 
+As one might expect, the NSF reviewers want to award the fellowship to students who will use the money well, and one effective way of convincing someone that you know what you are doing is to give them exactly how you plan to accomplish it. 
+Many students who are early in their PhD tend to write vague research statements. When applying to graduate school or just starting their first semester, they probably do not know the full range of resources available at their university yet.  However, the NSF proposal is non-binding. You can say that you will do something without being 100% certain that it will work. I recommend speaking about the research that you want to do and the ways you will share your research with as much confidence as possible. 
+
+## Make your "Intellectual Merit" & "Broader Impact” clear
+
+The NSF wants to make sure that your research program has “Intellectual Merit” and “Broader Impact,” and your reviewer will be reading way too many of these applications (most likely at the last minute).  They will not have time to read between the lines and find your intellectual merit and broader impact. So make it easy for them. I recommend reading the [NSF’s definitions of these terms](https://www.nsfgrfp.org/applicants/application_components/merit_review_criteria) and clearly marking each section as having the relevant term. 
+
+##  Images can make your application stand out  
+
+Your reviewer will be reading (possibly skimming) many of these application very quickly. Sharing a figure that illustrates your previous work can do wonders to help a reviewer understand it quickly and easily. Including a key figure from your previous research can make your work stand out and clearly demonstrate your ability to conduct research and get results. Similarly, including a photo of you volunteering in your community can make your service work seem more memorable and impactful. 
+
+Note: You do have a very limited amount of space, so I recommend keeping the dimensions relatively small, and when revising, evaluate whether you could communicate your idea more effectively with words or an image in that space. For me, the answer was almost always “use the image.” 
+
+## If your work is interdisciplinary, decide who will appreciate your work most. 
+
+When I applied for the NSF fellowship, I planned to do the same sort of computational cognitive science research that I had done as an undergraduate. Computational cognitive science sits at the interface of computer science (of the machine learning & statistics variety) and psychology. 
+I had double-majored in computer science and brain & cognitive sciences, so I had spent time with researchers in both fields. I had noticed that only some computer science researchers seemed remotely interested in mathematical models of human perception, but people in many areas of psychology appreciate research, heavily utilizing computer science and math. Therefore, I submitted my proposal as a “Cognitive Science” proposal.  So, if your work is interdisciplinary, consider in which field your proposal would be best received, and submit it there. 
+Good luck on your application! 
