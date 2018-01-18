@@ -13,6 +13,8 @@ image:
 
 <p class="intro"><span class="dropcap">T</span>he National Science Foundation (NSF) Graduate Research Fellowship is one of several graduate fellowships that you can apply for early in your graduate career. Other bloggers (i.e. <a href="http://www.pgbovine.net/fellowship-tips.htm">Philip Guo</a> & <a href="http://jxyzabc.blogspot.com/2008/08/cs-grad-school-part-3-fellowships.html">Jean Yang</a>) have written overviews of what to expect when applying for the NSF. When I applied, I wanted more specific advice on how to write a winning proposal. To get this, I went to every workshop/seminar/reading group I could find to learn how to write an effective NSF proposal. Here, I will share some of the most helpful advice I received.</p>
 
+# Overview 
+
 The NSF Graduate Fellowship has two main written components (each limited to two pages):
 
 1. Personal statement (+ previous research) [ 2 pages ]
@@ -27,7 +29,7 @@ When writing these, remember that the committee wants to know the answer to a fe
 
 As you write your application, try to tell stories that demonstrate the answers to these questions.  
 
-# General Advice 
+# Advice 
 
 I distilled the most helpful advice I recieved into a few generalizations.  
 
