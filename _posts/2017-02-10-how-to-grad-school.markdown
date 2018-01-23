@@ -3,7 +3,7 @@ layout: post
 title:  "How to get into a top PhD program"
 date:   2017-02-10
 categories: journal
-tags: [documentation,sample]
+tags: [gradschool, advice]
 image:
   feature: MD.jpg
   teaser: MD.jpg
