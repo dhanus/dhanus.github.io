@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "How to Learn Machine Learning"
+title:  "How to learn Machine Learning"
 date:   2018-02-03
 categories: journal
 tags: [gradschool, machine learning, resources]
@@ -11,7 +11,7 @@ image:
   creditlink: "https://books.google.com/"
 ---
 
-<p class="intro"><span class="dropcap">I</span>'ve had a lot of people ask me how to get started with machine learning and/or deep learning. This is a list of some of the resources that I have either found useful myself or heard people who I trust rave about. This post is a summary of a <a href="https://github.com/dhanus/learnML/blob/master/README.md">github repository</a> that I will update as I find more resources</p>
+<p class="intro"><span class="dropcap">I</span>'ve had a lot of people ask me how to get started with machine learning and/or deep learning. This is a list of some of the resources that I have either found useful myself or heard people who I trust rave about. This post is a summary of a <a href="https://github.com/dhanus/learnML/blob/master/README.md">github repository</a> that I will update as I find more resources.</p>
 
 # General Machine Learning 
 
