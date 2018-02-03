@@ -3,7 +3,7 @@ layout: post
 title:  "How to Learn Machine Learning"
 date:   2018-02-03
 categories: journal
-tags: [gradschool, advice, machine learning]
+tags: [gradschool, machine learning, resources]
 image:
   feature: mlbooks.jpg
   teaser: mlbooks.jpg
@@ -11,12 +11,9 @@ image:
   creditlink: "https://books.google.com/"
 ---
 
-<p class="intro"><span class="dropcap">I</span>'ve had a lot of people ask me how to get started with machine learning and/or deep learning. This is a list of some of the resources that I have either found useful myself or heard people who I trust rave about. This post is a summary of a [github repository](https://github.com/dhanus/learnML/blob/master/README.md) that I will update as I find more resources</p>
+<p class="intro"><span class="dropcap">I</span>'ve had a lot of people ask me how to get started with machine learning and/or deep learning. This is a list of some of the resources that I have either found useful myself or heard people who I trust rave about. This post is a summary of a <a href="https://github.com/dhanus/learnML/blob/master/README.md">github repository</a> that I will update as I find more resources</p>
 
-# How to learn machine learning 
-I've had a lot of people ask me how to get started with machine learning and/or deep learning. This is a list of some of the resources that I have either found useful myself or heard people who I trust rave about.  
-
-## General Machine Learning 
+# General Machine Learning 
 
 **Classes**
 
@@ -32,7 +29,7 @@ I've had a lot of people ask me how to get started with machine learning and/or 
 
 * [SciKitLearn](http://scikit-learn.org/stable/) - SciKitLearn is a Python library for machine learning. Most of the tools provided in it are written with the aim of being usable for those with minimal machine learning background. With this goal in mind, the documentation often contains nice resources for describing heuristics or intuiton to better understand the machine learning behind the library. 
 
-## Deep Learning 
+# Deep Learning 
 
 **Classes**
 
@@ -63,7 +60,7 @@ I've had a lot of people ask me how to get started with machine learning and/or 
 
 * [TensorFlow Playground](http://playground.tensorflow.org/#activation=tanh&batchSize=10&dataset=circle&regDataset=reg-plane&learningRate=0.03&regularizationRate=0&noise=0&networkShape=4,2&seed=0.63097&showTestData=false&discretize=false&percTrainData=50&x=true&y=true&xTimesY=false&xSquared=false&ySquared=false&cosX=false&sinX=false&cosY=false&sinY=false&collectStats=false&problem=classification&initZero=false&hideText=false) - This is a beautiful interactive visualization that came out of Google Brain and the People and AI Research (P+AIR) Initiave. If you want to get a better intuitive sense of what the parameters in your neural network are doing, this is the perfect place to start.
 
-## Reinforcement Learning 
+# Reinforcement Learning 
 
 **Reading**
 
