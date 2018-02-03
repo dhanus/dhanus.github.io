@@ -11,7 +11,7 @@ image:
   creditlink: "https://books.google.com/"
 ---
 
-<p class="intro"><span class="dropcap">A</span> lot of people have asked me how to get started with machine learning and/or deep learning. This is a list of some of the resources that I have either found useful myself or heard people who I trust rave about. This post is a summary of a <a href="https://github.com/dhanus/learnML/blob/master/README.md">github repository</a> that I will update as I find more resources.</p>
+<p class="intro"><span class="dropcap">A</span> lot of people have asked me how to get started with machine learning and/or deep learning. This is a list of some of the resources that I have either found useful myself or heard people who I trust rave about. This post is a summary of my <a href="https://github.com/dhanus/learnML/blob/master/README.md">github repository</a> (which I expect to update more often than this post).</p>
 
 ## General Machine Learning 
 
