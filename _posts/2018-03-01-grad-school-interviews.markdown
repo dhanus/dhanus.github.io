@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Advice for PhD Interviews"
+title:  "Advice for acing your PhD interviews"
 date:   2018-03-01
 categories: journal
 tags: [gradschool, advice]
@@ -11,9 +11,9 @@ image:
   creditlink: "https://extension.ucsd.edu"
 ---
 
-<p class="intro"><span class="dropcap">M</span>y undergraduate research was in <a href="https://en.wikipedia.org/wiki/Computational_cognition">computational cognitive science</a>, so I applied to a mix of psychology and computer science programs. While none of the computer science programs I applied to had interviews, so my advice is coming from (a) my interviews for psychology PhD programs, and (b) discussing interviews with friends who interviewed in <a href="2018-03-01-grad-school-interviews.markdown">bioinformatics</a>.</p>
+<p class="intro"><span class="dropcap">M</span>y undergraduate research was in <a href="https://en.wikipedia.org/wiki/Computational_cognition">computational cognitive science</a>, so I applied to a mix of psychology and computer science programs. In my experience, interviews for computer science PhD programs are relatively rare. So my advice is coming from (a) my interviews for psychology PhD programs, and (b) discussing interviews with friends who interviewed in computer science adjacent fields like <a href="2018-03-01-grad-school-interviews.markdown">bioinformatics</a>.</p>
 
-First, congratulations on getting an interview! If you've gotten an invitation to interview, that means that at least one professor probably thinks that you are a pretty good fit for their research group. 
+First, congratulations on getting an interview! If you've gotten an invitation to interview, that probably means that at least one professor probably thinks that you are a pretty good fit for their research group. 
 
 When I did these interviews, I felt like I was being judged for two things:
 
