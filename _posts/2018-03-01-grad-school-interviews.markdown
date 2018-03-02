@@ -7,11 +7,11 @@ tags: [gradschool, advice]
 image:
   feature: ucsd.jpg
   teaser: ucsd.jpg
-  credit: Google Books
+  credit: UCSD
   creditlink: "https://extension.ucsd.edu"
 ---
 
-<p class="intro"><span class="dropcap">M</span>y undergraduate research was in [computational cognitive science](https://en.wikipedia.org/wiki/Computational_cognition), so I applied to a mix of psychology and computer science programs. While none of the computer science programs I applied to had interviews, so my advice is coming from (a) my interviews for psychology PhD programs, and (b) discussing interviews with friends who interviewed in [bioinformatics](https://en.wikipedia.org/wiki/Bioinformatics). </p>
+<p class="intro"><span class="dropcap">M</span>y undergraduate research was in <a href="https://en.wikipedia.org/wiki/Computational_cognition">computational cognitive science</a>, so I applied to a mix of psychology and computer science programs. While none of the computer science programs I applied to had interviews, so my advice is coming from (a) my interviews for psychology PhD programs, and (b) discussing interviews with friends who interviewed in <a href="2018-03-01-grad-school-interviews.markdown">bioinformatics</a>.</p>
 
 First, congratulations on getting an interview! If you've gotten an invitation to interview, that means that at least one professor probably thinks that you are a pretty good fit for their research group. 
 
@@ -40,5 +40,3 @@ What are the best and worst things about working with the professor? They will p
 Realistically, it is unlikely that any specific thing that you say in this interview, will really make or break your application (unless you show up drunk or similar<sup>1</sup>), so get a good night's sleep before the interview, so that you can think on your feet. 
 
 <sup>1</sup> Some interviews do involve an informal night out with your potential research group. If that is an event on your agenda, please drink in moderation (or don't drink). Getting drunk and acting obnoxious is a relatively common way of botching an otherwise fine interview. 
-
-
