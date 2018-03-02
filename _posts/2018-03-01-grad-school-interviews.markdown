@@ -16,13 +16,14 @@ image:
 First, congratulations on getting an interview! If you've gotten an invitation to interview, that means that at least one professor probably thinks that you are a pretty good fit for their research group. 
 
 When I did these interviews, I felt like I was being judged for two things:
-     1. Are you a congenial, thoughtful, and smart person in real life (in addition to on paper)? 
 
-     Some people look great on paper but are not great people to work with or share lab space with. Coming off as a decent, responsible human is important here. 
+1. Are you a congenial, thoughtful, and smart person in real life (in addition to on paper)? 
 
-     2. How do your research interests fit into the professor's research interests? 
+   Some people look great on paper but are not great people to work with or share lab space with. Coming off as a decent, responsible human is important here. 
 
-     Reading the professors' papers is a great first step in being able to convince them that your research can fit into their research agenda. To do this most effectively, you need some information about not only their past papers but also their future. What do they think is important right now? What do they have funding for?  You cannot know all of that before the interview, but there is some chance that they might tell you during the interview. 
+2. How do your research interests fit into the professor's research interests? 
+
+   Reading the professors' papers is a great first step in being able to convince them that your research can fit into their research agenda. To do this most effectively, you need some information about not only their past papers but also their future. What do they think is important right now? What do they have funding for?  You cannot know all of that before the interview, but there is some chance that they might tell you during the interview. 
 
 Whenever I visited a lab, the professors usually (a) ask me about what I have been doing and (b) pitch one or two things that fit into their research agenda that they think might work with my interests. So you might be able to get a better idea of what they are looking for based on their own pitch. 
 
