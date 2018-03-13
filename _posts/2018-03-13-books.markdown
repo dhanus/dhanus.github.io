@@ -11,11 +11,11 @@ image:
   creditlink: "https://books.google.com/"
 ---
 
-<p class="intro"><span class="dropcap">P</span>artway through 2017, I set a goal of reading for an hour per day. Some of the books were informative. Some were entertaining. While some were more engaging than others, all of them were good. In this post, I share the list of books I read and a short description of what I got from each book.</p>
+<p class="intro"><span class="dropcap">P</span>artway through 2017, I set a goal of reading for an hour per day. While some were more engaging than others, all of them were good. In this post, I share the list of books I read and a short description of what I got from each book.</p>
 
 # Phenomenally good books
 
-If you have not read these books, you should. They will make your life better. 
+If you have not read these books, you should. Each one either changed how I thought about an issue, or helped me clarify my own thoughts on the topic.  
 
 <a href="https://www.amazon.com/Weapons-Math-Destruction-Increases-Inequality/dp/0553418815">Weapons of Math Destruction</a> by Cathy O'Neil
 
