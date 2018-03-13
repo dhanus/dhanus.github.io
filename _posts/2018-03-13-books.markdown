@@ -11,7 +11,7 @@ image:
   creditlink: "https://books.google.com/"
 ---
 
-<p class="intro"><span class="dropcap">P</span>artway through 2017, I set a goal of reading for an hour per day. Some of the books were informative. Some were entertaining. While some were more engaging than others, all of them were good. In this post, I share the list of books I read and a short description of what I got from each book.
+<p class="intro"><span class="dropcap">P</span>artway through 2017, I set a goal of reading for an hour per day. Some of the books were informative. Some were entertaining. While some were more engaging than others, all of them were good. In this post, I share the list of books I read and a short description of what I got from each book.</p>
 
 # Phenomenally good books
 
