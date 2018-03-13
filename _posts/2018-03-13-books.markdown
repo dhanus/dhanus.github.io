@@ -11,60 +11,84 @@ image:
   creditlink: "https://books.google.com/"
 ---
 
-<p class="intro"><span class="dropcap">P</span>artway through 2017, I realized that I had pretty much stopped reading books. This didn't seem like a particularly positive development, so I set a goal of reading for an hour per day. Some of the books were informative. Some were entertaining. While some were more engaging than others, all of them were good.</a>
+<p class="intro"><span class="dropcap">P</span>artway through 2017, I set a goal of reading for an hour per day. Some of the books were informative. Some were entertaining. While some were more engaging than others, all of them were good. In this post, I share the list of books I read and a short description of what I got from each book.
 
 # Phenomenally good books
 
-Reading these books will make your life better. 
+If you have not read these books, you should. They will make your life better. 
 
 <a href="https://www.amazon.com/Weapons-Math-Destruction-Increases-Inequality/dp/0553418815">Weapons of Math Destruction</a> by Cathy O'Neil
 
-This is easy to read, but very clearly describes the problems associated with thinking of algorithms as "impartial". I would highly recommend this book to anyone who wants to easily understand some of the ways that well-intended  algorithms can go wrong.   
+This is easy to read, but clearly outlines the problems associated with thinking of algorithms as "impartial". I would highly recommend this book to anyone who wants to easily understand some of the ways that well-intended  algorithms can go wrong.
 
 <a href="https://www.amazon.com/What-Works-Gender-Equality-Design/dp/0674089030">What Works: Gender Equality by Design</a> by Iris Bohnet
 
-This is a slow read that is probably easiest read in small sections. However, it is written by someone who has spent years studying gender inequality, and unlike most writing on the topic, which concludes something like "this is a hard problem", each chapter is packed with thoughtful, actionable insights that people can use to design systems and workplaces that encourage gender equality. 
+This is a slow read that is probably easiest read in small sections. However, it is written by someone who has spent years studying gender inequality, and unlike most writing on the topic, which concludes something like "this is a hard problem", each chapter is packed with thoughtful, actionable insights that people can use to design systems and workplaces that encourage gender equality.
 
 <a href="https://www.amazon.com/Unlocking-Clubhouse-Women-Computing-Press/dp/0262632691">Unlocking the Clubhouse</a> by Jane Margolis & Allen Fisher
 
-I actually first read this book before 2017, but it is so good that I had to include it. It is written by two professors, who tried to get to the bottom of why there are so few women in computer science. For me, reading this gave me a framework that allowed me to see a lot of the uncomfortable situations I sometimes experience as a symptom of a larger, fixable social problem.  
+I actually read this one for the second time in 2017, but I had ot include it. It is written by two professors, who tried to get to the bottom of why there are so few women in computer science. For me, reading this gave me a framework that allowed me to see a lot of the uncomfortable situations I sometimes experience as a symptom of a larger, fixable social problem.
 
 <a href="https://www.amazon.com/Nonviolent-Communication-Language-Marshall-Rosenberg/dp/1892005034">Nonviolent Communication</a> by Marshall Rosenberg
 
-This reads like a self-help book in that it has a few key ideas, and it gives more examples than necessary for you to understand the concept. That said, the ideas introduced if implemented can be absolutely life changing. The book tries to provide a framework for developing an understanding of what people are feeling and perceiving, rather than what they are saying. 
+This reads like a self-help book in that it has a few key ideas, and it gives more examples than necessary for you to understand the concept. That said, the ideas introduced if implemented can be absolutely life changing. The book tries to provide a framework for developing an understanding of what people are feeling and perceiving, rather than what they are saying.
 
-# Really good books 
+# Really good books
 
-If any of these books look interesting to you, you should read them, because you will almost certainly enjoy reading them. If they do not look interesting to you, you can probably still manage to be a functional human being without reading them. 
+If any of these books look interesting to you, you should read them, because you will almost certainly enjoy reading them. If they do not look interesting to you, you can probably still manage to be a functional human being without reading them.
 
 <a href="https://www.amazon.com/Everybody-Lies-Internet-About-Really/dp/0062390856">Everybody Lies</a> by Seth Stephens-Davidowitz
 
-<a href="https://www.amazon.com/What-Happened-Hillary-Rodham-Clinton/dp/1501175564">What Happened</a> by Hillary Rodham Clinton
+This book taught me a lot about how people interact with Google. As alluded to by the title, it also used data analysis to reveal some interesting quirks about society. 
 
-<a href="https://www.amazon.com/Reset-Fight-Inclusion-Lasting-Change/dp/039959101X">Reset </a> by Ellen Pao
+<a href="https://www.amazon.com/What-Happened-Hillary-Rodham-Clinton/dp/1501175564">What Happened</a> by Hillary Rodham Clinton and <a href="https://www.amazon.com/Reset-Fight-Inclusion-Lasting-Change/dp/039959101X">Reset </a> by Ellen Pao
 
-<a href="https://www.amazon.com/Hillbilly-Elegy-Memoir-Family-Culture-ebook/dp/B0166ISAS8">Hillbilly Elegy: a memoir of a family & culture in crisis</a> by J.D. Vance
+When I read leadership books, I feel that I need to read them somewhat skeptically. Leadership books usually claim some theory based on some observations of people in leadership positions, and after finsihing them, I usually find myself thinking 'Given X well-studied gender-based bias, I'm really not sure this advice would work for a woman.' Unfortunately, there are not yet enough women leading large teams to write the data-based leadership books that I would love to see, so in the meantime, learning about the experiences (successes and failures) of women in leadership positions is the best proxy we have.  
+
+<a href="https://www.amazon.com/Hillbilly-Elegy-Memoir-Family-Culture-ebook/dp/B0166ISAS8">Hillbilly Elegy</a> by J.D. Vance
+
+This book insightfully describes one family from the appalachians and the economic and social challenges they faced. The story was extraordinarily well told, and I was impressed with how clearly the author described complex emotional situations that people often struggle to convey well.  
 
 <a href="https://www.amazon.com/Just-Mercy-Story-Justice-Redemption/dp/081298496X">Just Mercy</a> by Bryan Stevenson
 
+This book is written by the founder of the <a href="https://eji.org/bryan-stevenson">Equal Justice Initiative</a>, a lawyer who represented many people assigned to death row. I highly recommend this story to anyone who believes that the legal system works (or even that it mostly works). 
+
 <a href="https://www.amazon.com/Option-Adversity-Building-Resilience-Finding/dp/1524732680">Option B</a> by Sheryl Sandberg & Adam Grant
 
-<a href="https://www.amazon.com/BALLS-Takes-Some-Get/dp/162634325X">Balls</a> by Chris Edwards 
+Option B discusses the importance of resilience in the context of Shery Sandberg's experience processing her grief associated with the loss of her husband. If you are not familiar with a lot of the big ideas around resilience, this book is an interesting and palatable way to (a) learn about resilience, and (b) better empathize and support people who are processing grief. 
 
+<a href="https://www.amazon.com/BALLS-Takes-Some-Get/dp/162634325X">Balls</a> by Chris Edwards
 
-# Entertaining books 
+This was an informative and entertaining story about one trans-man's journey to coming out, transitioning, and building a successful career in advertising in Boston. While this is just one person's story, it could be a valuable read for anyone who wants to understand some challenges facing transgender individuals, so they can be more inclusive. 
 
-<a href="https://www.amazon.com/Born-Crime-Stories-African-Childhood/dp/0399588175">Born a Crime</a> by Trevor Noah
+# Entertaining books
+
+These were not in my usual reading repertoire, but both were hilarious and enlightening stories written by very funny people about their lives.  
+
+<a href="https://www.amazon.com/Born-Crime-Stories-African-Childhood/dp/0399588175">Born a Crime</a> by Trevor Noah 
 
 <a href="https://www.amazon.com/Everyone-Hanging-Without-Other-Concerns/dp/0307886271">Is everyone hanging out without me? </a> by Mindy Kaling
 
 # Otherwise informative books
 
-<a href="https://www.amazon.co.uk/Asshole-Rule-Civilised-Workplace-Surviving/dp/0749954035">The No Asshole Rule</a> by Robert Sutton
+This was a mix of leadership books, non-fiction, and others that did not fit into a particular genre. 
 
 <a href="https://www.amazon.com/Zingermans-Guide-Giving-Great-Service/dp/1401301436">Zingerman's guide to giving great service</a> by Ari Weinzweig
 
+This was a surprisingly engaging manifesto on how to provide great customer service. I learned a lot in the couple hours that it took me to read it.  
+
 <a href="https://www.amazon.com/Achievement-Habit-Wishing-Start-Command/dp/0062356100">The Achievement Habit</a> by Bernard Roth
 
+This was a sort of 'find yourself and what you care about' book that contained some interesting ideas. 
+
+<a href="https://www.amazon.co.uk/Asshole-Rule-Civilised-Workplace-Surviving/dp/0749954035">The No Asshole Rule</a> by Robert Sutton
+
+This was useful in that it defined several ways that someone can be not nice to deal with, inlcuding some of the more insiduious ways. As with many leadership books, I found it a bit repetitive, but the ideas were worth thinking about. 
+
 <a href="https://www.amazon.com/Hatching-Twitter-Story-Friendship-Betrayal-ebook/dp/B00CDUVSQ0">Hatching Twitter</a> by Nick Bilton
+
+This was an interesting telling of the history of Twitter that read like a novel. 
+
+
+
 
