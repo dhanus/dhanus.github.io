@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Ways to jumpstart a career in machine learning"
+title:  "How to jumpstart a career in machine learning"
 date:   2018-04-10
 categories: journal
 tags: [machine learning, data science, training]
@@ -11,9 +11,9 @@ image:
   creditlink: "https://images.google.com/"
 ---
 
-<p class="intro"><span class="dropcap">"D</span>o I need a graduate degree to start a career in machine learning?"</p>
+<i>"Do I need a graduate degree to start a career in machine learning?"</i>
 
-I've been asked this question relatively frequently, and I'd love to answer with an unqualified "No, to get a job in machine learning, you just need to know machine learning." But realistically speaking, while the job titles *Data Scientist* and *AI Researcher* hold a lot of prestige at the moment, software engineers are in much higher demand. One of the earliest steps for any tech company is "write software." Most of these same companies will not have use for data scientists until they're a bit larger, and similarly, AI researchers are more of a luxury than a necessity for most companies. 
+<p class="intro"><span class="dropcap">I</span>'ve been asked this question relatively frequently, and I'd love to answer with an unqualified "No, to get a job in machine learning, you just need to know machine learning." But realistically speaking, while the job titles *Data Scientist* and *AI Researcher* hold a lot of prestige at the moment, software engineers are in much higher demand. One of the earliest steps for any tech company is "write software." Most of these same companies will not have use for data scientists until they're a bit larger, and similarly, AI researchers are more of a luxury than a necessity for most companies.</p> 
 
 Transitioning into a machine learning role can be hard even if you have the right skills (and getting people to agree on what 'the right skills' are is its own issue). So it can be helpful to have something that differentiates you from the hoards of other software engineers who want to be doing machine learning. 
 
