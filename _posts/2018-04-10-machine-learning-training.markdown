@@ -13,11 +13,11 @@ image:
 
 <i>"Do I need a graduate degree to start a career in machine learning?"</i>
 
-<p class="intro"><span class="dropcap">I</span>'ve been asked this question relatively frequently, and I'd love to answer with an unqualified "No, to get a job in machine learning, you just need to know machine learning." But realistically speaking, while the job titles *Data Scientist* and *AI Researcher* hold a lot of prestige at the moment, software engineers are in much higher demand. One of the earliest steps for any tech company is "write software." Most of these same companies will not have use for data scientists until they're a bit larger, and similarly, AI researchers are more of a luxury than a necessity for most companies.</p> 
+<p class="intro"><span class="dropcap">I</span>'ve been asked this question frequently, and I'd love to answer with an unqualified "No, to get a job in machine learning, you need to know machine learning." But realistically speaking, while the job titles <i>Data Scientist</i> and <i>AI Researcher</i> hold a lot of prestige at the moment, software engineers are in much higher demand, making the transition from software to mahcine learning more difficult than one might expect. One of the earliest steps for any tech company is "write software." Most of these same companies will not have use for data scientists until they're a bit larger, and similarly, AI researchers are more of a luxury than a necessity for most companies.</p> 
 
 Transitioning into a machine learning role can be hard even if you have the right skills (and getting people to agree on what 'the right skills' are is its own issue). So it can be helpful to have something that differentiates you from the hoards of other software engineers who want to be doing machine learning. 
 
-A master's degree is definitely one way of doing that. If you are considering a short program (i.e. 1-2 years) at a reputable school, a degree could really help you in a transition. If you manage to do some substantive research while in the program, that could also make your application stand out for a research position as well. 
+A master's degree is definitely one way of doing that. If you are considering a short program (i.e. 1-2 years) at a reputable school, a degree could really help you in a transition. If you manage to do some substantive research while in the program, that could also make your application stand out for a research position as well. However, there are other positions and reources that can be valuable steps toward a career in machine learning. 
 
 ## Data Science Training 
 
@@ -52,7 +52,9 @@ Maybe you do not have the time/resources to move somewhere for a bootcamp, but y
 
 ## AI residency
 
-The concept of the AI residency is relatively recent. I saw the first call for applicants to the Google Brain Residency (now renamed the Google AI Residency) around the end of 2014/early 2015, and most of these residencies were announced the following year. This means that we do not yet have a ton of data on where AI residents end up. But I can tell you that all of the Google AI residents I know have gone on to amazing things, such as staying at Google Brain as a full-time AI researcher or going on to amazing PhD programs. I expect that the current and future AI residents will also go on to very successful careers in machine learning. 
+The concept of the AI residency is relatively recent. I saw the first call for applicants to the Google Brain Residency (now renamed the Google AI Residency) around the end of 2014/early 2015, and most of these residencies were announced the following year. This means that we do not yet have a ton of data on where AI residents end up. However, all of the Google AI residents I know have gone on to amazing things, such as staying at Google Brain as a full-time AI researcher or going on to amazing PhD programs. I expect that the current and future AI residents will also go on to very successful careers in machine learning. 
+
+Because these positions tend to be pretty selective, having some research experience is usually a major prerequisite. While you might be able to get research during a bachelor's or master's degree, if you haven't managed to do that, don't despair. Some other options include (a) volunteering to work on a research project at a local university, or (b) trying to replicate the results of a published paper to show that you can follow the steps that someone else took to produce a good research paper. 
 
 [Google AI Residency](http://g.co/airesidency)
 
@@ -68,4 +70,4 @@ The concept of the AI residency is relatively recent. I saw the first call for a
 
 [Clova AI's AI Residency](https://clova.ai/m/en/research/careers.html)
 
-I hope this post has given you a better sense of some of the pathways into a machine learning careers. I will keep it updated as I find more resources. Good luck selecting your next steps! 
+I hope this post has given you a better sense of some of the paths into a machine learning career. I will keep it updated as I find more resources. Good luck selecting your next steps! 
