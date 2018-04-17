@@ -5,10 +5,10 @@ date:   2018-04-10
 categories: journal
 tags: [machine learning, data science, training]
 image:
-  feature: AIresidencies.jpg
-  teaser: AIresidencies.jpg
-  credit: Google Images
-  creditlink: "https://images.google.com/"
+  feature: 
+  teaser: 
+  credit: 
+  creditlink: 
 ---
 
 <i>"Do I need a graduate degree to start a career in machine learning?"</i>
