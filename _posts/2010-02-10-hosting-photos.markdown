@@ -13,12 +13,12 @@ image:
 
 I'm hosting photos. 
 
-    <center><img src="{{ '../images/img/beautifulsoup.png' | prepend: site.baseurl }}" alt=""></center>
+<center><img src="{{ '../images/img/beautifulsoup.png' | prepend: site.baseurl }}" alt=""></center>
 
-    <center><img src="{{ '../images/img/binaryconfusionmatrix.png' | prepend: site.baseurl }}" alt=""></center>
+<center><img src="{{ '../images/img/binaryconfusionmatrix.png' | prepend: site.baseurl }}" alt=""></center>
 
-    <center><img src="{{ '../images/img/nicholascage.png' | prepend: site.baseurl }}" alt=""></center>
+<center><img src="{{ '../images/img/nicholascage.png' | prepend: site.baseurl }}" alt=""></center>
 
-    <center><img src="{{ '../images/img/joy.png' | prepend: site.baseurl }}" alt=""></center>
+<center><img src="{{ '../images/img/joy.png' | prepend: site.baseurl }}" alt=""></center>
 
-    <center><img src="{{ '../images/img/scrapingsites.png' | prepend: site.baseurl }}" alt=""></center>
+ <center><img src="{{ '../images/img/scrapingsites.png' | prepend: site.baseurl }}" alt=""></center>
