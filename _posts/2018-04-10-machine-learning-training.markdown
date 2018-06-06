@@ -70,4 +70,6 @@ Because these positions tend to be pretty selective, having some research experi
 
 [Clova AI's AI Residency](https://clova.ai/m/en/research/careers.html)
 
+[Intel's AI Residency](https://jobs.intel.com/ShowJob/Id/1650117/AI-Research-Resident/)
+
 I hope this post has given you a better sense of some of the paths into a machine learning career. I will keep it updated as I find more resources. Good luck selecting your next steps! 
