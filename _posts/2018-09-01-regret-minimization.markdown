@@ -26,7 +26,7 @@ And that was the start of several weeks of existential angst as I contemplated l
 
 "You cannot globally optimize your life. You can only use local regret minimization." - My very wise friend
 
-Walking home after that conversation, I realized that I could apply approximate quantities to how much I would regret not getting my PhD in the next few years vs. how much I would regret not trying to start a company. If I got my PhD, I would find a project that I was excited about, graduate in 2-3 years, get a job at a top AI research group, and then get paid hundreds of thousands of dollars to continue doing approxximately the same thing I had done for the last 5+ years. And as I kept get better jobs and higher pay, it would just get harder and harde for me to try something new. In 10 years, I'd be wondering "What if" but my window of opportunity would have already closed.
+Walking home after that conversation, I realized that I could estimate how much I would regret not getting my PhD in the next few years vs. how much I would regret not trying to start a company. If I got my PhD, I would find a project that I was excited about, graduate in 2-3 years, get a job at a top AI research group, and then get paid hundreds of thousands of dollars to continue doing basically what I had done for the last 5+ years. And as I kept get better jobs and higher pay, it would just get harder and harder for me to try something new. In 10 years, I'd be wondering "What if" but my window of opportunity would have already closed.
 
 There was no contest between the two quantities of regret. I needed to take this opportunity now. I decided to move to San Francisco to start a company, and I'll be sharing more details about what I've been up to soon.
 
