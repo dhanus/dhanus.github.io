@@ -10,7 +10,7 @@ image:
   credit:  
   creditlink: ""
 ---
-<p class="intro"><span class="dropcap">L</span>ast year, I made the difficult decision to take a leave of absence from my PhD program to start a company. So far I’m really happy, and I wanted to share my thought process.</p>
+<p class="intro"><span class="dropcap">L</span>ast year, I made the difficult decision to take a leave of absence from my PhD program to start a company. So far, I am really happy with my decision, and I wanted to share my thought process.</p>
 
 I've always known that I wanted to start something. I didn't know what form it would take -- business, nonprofit, community organization. In college, I was always brainstorming ways to improve the world as I knew it -- usually through education and technology outreach, because at the time, those had been the largest positive influences in my life trajectory.
 
@@ -22,11 +22,11 @@ In the meantime, I had been offered the opportunity to start a PhD in machine le
 
 One side-effect of undertaking something as unstructured as a PhD is that it provides some time for reflection, and with reflection, I realized something: opportunities do not last forever. Our lives provide these sort of sliding windows of opportunities. As people live, their desires and priorities change, meaning that if you want to work on a certain project or with certain people, they're only available for a limited time.
 
-And that was the start of several weeks of existential angst as I contemplated leaving my PhD program to start a company. Fortunately for me, I brought my considerations up to a friend who gave me some very wise advice.
+And that was the start of several weeks of existential angst as I contemplated leaving my PhD program to start a company. Fortunately for me, I brought my considerations up to a friend who gave me some very wise advice:
 
 "You cannot globally optimize your life. You can only use local regret minimization." - My very wise friend
 
-Walking home from that meeting with my friend, I realized that I could apply approximate quantities to how much I would regret not getting my PhD in the next few years vs. how much I would regret not trying to start a company. If I got my PhD, I would find a project that I was excited about, graduate in 2-3 years, get a job at a top AI research group, and then get paid hundreds of thousands of dollars to ... continue doing my research. And as I kept get better jobs and higher pay, it would just get harder and harder for me to try something new. In 10 years, I'd be wondering "What if ...?" but my window of opportunity would have already closed.
+Walking home after that conversation with my friend, I realized that I could apply approximate quantities to how much I would regret not getting my PhD in the next few years vs. how much I would regret not trying to start a company. If I got my PhD, I would find a project that I was excited about, graduate in 2-3 years, get a job at a top AI research group, and then get paid hundreds of thousands of dollars to ... continue doing basically the same thing I had done for the last five years. And as I kept get better jobs and higher pay, it would just get harder and harder for me to try something new. In 10 years, I'd be wondering "What if ...?" but my window of opportunity would have already closed.
 
 There was no contest between the two quantities of regret. I needed to take this opportunity now. I decided to move to San Francisco to start a company, and I'll be sharing more details about what I've been up to soon.
 
