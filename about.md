@@ -11,7 +11,7 @@ image:
 
       <center><img src="{{ '../images/elephant.jpg' | prepend: site.baseurl }}" alt="Me being eaten by an elephant"></center>
 
-     <p>I am the Founder of <a href="https://trysparrow.com">Sparrow</a>, software that makes it easier for companies to provide their employees with leave (e.g. family, disability, medical). By alleviating administrative overhead, we save companies time, money (up to 70% of an employee's salary), and prevent employee churn. I use this blog as a time saving device. If I spend  an hour (or more) advising or training someone, I turn my thoughts into a blog post. I hope you find it useful.</p>
+     <p>I am the Founder of <a href="https://trysparrow.com">Sparrow</a>, software that makes it simple for companies to provide their employees with leave (i.e. family leave). I use this blog as a time saving device. If I spend  an hour (or more) advising or training someone, I turn my thoughts into a blog post. I hope you find it useful.</p>
 
      <p>Previously, I was a PhD student at <a href="http://www.seas.harvard.edu">Harvard</a>. As an NSF Fellow, I studied <a href="https://en.wikipedia.org/wiki/Machine_learning">machine learning</a> while advised by <a href="https://www.seas.harvard.edu/directory/finale">Finale Doshi</a> and <a href="https://www.seas.harvard.edu/directory/rpa">Ryan Adams</a>.</p>
 
