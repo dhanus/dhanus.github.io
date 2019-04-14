@@ -5,10 +5,10 @@ date:   2019-01-23
 categories: journal
 tags: [startups, announcement]
 image:
-  feature: 
-  teaser: 
-  credit:  
-  creditlink: ""
+  feature: sparrow.png
+  teaser: sparrow.png
+  credit:  Sparrow
+  creditlink: "http://trysparrow.com"
 ---
 <p class="intro"><span class="dropcap">T</span>his summer, I founded Sparrow, a software company that provides the simplest way for companies to provide employees with extended leave. In this post, I’ve answered some of my most frequently asked questions, and I will follow up with some of my lessons learned in the coming weeks. 
 
