@@ -24,7 +24,7 @@ One side-effect of undertaking something as unstructured as a PhD is that it pro
 
 And that was the start of several weeks of existential angst as I contemplated leaving my PhD program to start a company. Fortunately for me, I brought my considerations up to a friend who gave me some very wise advice:
 
-   <center><img src="{{ '../images/regretminimization.png' | prepend: site.baseurl }}"></center>
+   <center><img src="{{ '../images/regretminimization.jpg' | prepend: site.baseurl }}"></center>
 
 Walking home after that conversation, I realized that I could estimate how much I would regret not getting my PhD in the next few years vs. how much I would regret not trying to start a company. If I got my PhD, I would find a project that I was excited about, graduate in 2-3 years, get a job at a top AI research group, and then get paid hundreds of thousands of dollars to continue doing basically what I had done for the last 5+ years. And as I kept get better jobs and higher pay, it would just get harder and harder for me to try something new. In 10 years, I'd be wondering "What if" but my window of opportunity would have already closed.
 
