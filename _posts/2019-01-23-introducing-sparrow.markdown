@@ -14,11 +14,11 @@ image:
 
 ## What is Sparrow? 
 
-Sparrow is a software-based service that is the simplest way for companies to provide their employees with extended leave (i.e. family leave, medical leave, etc.). 
+By managing the paperwork, deadlines, and endorsements associated with managing extended leave (ie. family leave, medical leave, etc), [Sparrow](https://trysparrow.com/) saves companies time (20-40 hours per leave), money (up to $20K per leave), and headache.
 
 ## What inspired you to start Sparrow? 
 
-Last year, six of my close friends from college had children. All of them had to file for short term disability insurance with their state (because that is how most states in the US provide "paid family leave"). All of them complained about it. Half of them made mistakes, didn’t get paid properly, and had to file appeals. I started thinking, "If my friends (who are highly-skilled Harvard and MIT grads with great jobs in tech) are struggling this much with this, chances are a lot of other people are too." 
+Last year, six of my friends had children. All of them had to file for short term disability insurance with their state (because that is how most states in the US provide "paid family leave"). All of them complained about it. Half of them made mistakes, didn’t get paid properly, and had to file appeals. I started thinking, "If my friends (who are highly-skilled Harvard and MIT grads with great jobs in tech) are struggling this much with this, chances are a lot of other people are too." 
 
 I spoke with about one hundred parents and people managing leave at their companies, and I found that is a major problem for employees and employers alike: 
 
