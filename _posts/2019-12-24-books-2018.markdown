@@ -11,7 +11,9 @@ image:
   creditlink: 
 ---
 
-I'm posting this list a year late, but I hope you'll forgive me: 2018 was quite the year for me. I started 2018 in the throes of introspection as I decided what was next for me after leaving my PhD in 2017. By April,I'd used [regret minimization](https://deborahhanus.com/blog/regret-minimization/) to determine that I would start a company that made it easier for companies to provide their employees with leave. In July, [Sparrow](http://trysparrow.com/) became official. In August, we got our first customers, and by the end of the year, we had raised a small round of funding. 
+I'm posting this list a year late, but I hope you'll forgive me: 2018 was quite the year for me. 
+
+I started 2018 in the throes of introspection as I decided what was next for me after leaving my PhD in 2017. By April, I decided to pursue the seed of an idea that became [Sparrow](http://trysparrow.com/). In July, the idea officially became a company. In August, we got our first customers, and by the end of the year, we had raised a small round of funding. 
 
 ## Customer Research 
 
