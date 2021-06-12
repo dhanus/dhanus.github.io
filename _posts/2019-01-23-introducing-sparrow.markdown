@@ -27,10 +27,6 @@ I spoke with about one hundred parents and people managing leave at their compan
 
 In my market research, I spoke with so many people who when faced with a decision between a “meh” job at a large company or an exciting high-potential job at a startup, if they had anything else going on in the lives -- taking care of parents, trying to have a child, etc., they felt like they had no choice but to go to the larger company. Sparrow is a software-based service that makes it simple for all companies to provide leave (such family leave, disability, etc.), so people don’t need to choose between the people they love and the job that they love. 
 
-## Can I use Sparrow? 
-
-Many of the regulations associated with leave vary from state to state. To start, we’re selling our software to companies with employees in California. If you’re interested in Sparrow, let us know! We’ll be rolling out nationwide as soon as we can. 
-
 ## How can I help? 
 
 Right now, we're focused on customer acquisition. If you know anyone who either (a) is about to take a leave from work, (b) has a colleague that is going to take a leave soon, or (c) wants to put together a leave policy for their company, please have them [get in touch](https://trysparrow.com/#signup). 
